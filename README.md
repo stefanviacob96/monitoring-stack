@@ -21,4 +21,12 @@ A simple DevOps project using Docker Compose to run a monitoring stack with Prom
 
 ```bash
 docker compose up -d
+```
 
+## Access
+- Prometheus: http://localhost:9090
+- Grafana: http://localhost:3000
+
+## Grafana default login:
+- user: admin
+- password: admin
